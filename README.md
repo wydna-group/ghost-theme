@@ -1,4 +1,4 @@
-# Shutup
+# Fuck
 
 Dumb
 # Copyright & License
