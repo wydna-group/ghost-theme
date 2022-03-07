@@ -1,0 +1,13 @@
+name: Deploy Theme
+on: [push]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Deploy Ghost Theme
+        uses: TryGhost/action-deploy-theme@v1.3.1
+        with:
+          api-url: ${{ https://wydna.org }}
+          api-key: ${{ 6223325868c2a7358414c354:49faffbdec186fb726eb9c626ece104d78441dd351e8438f348340a3a90413d4 }}
