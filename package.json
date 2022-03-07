@@ -1,16 +1,16 @@
 {
-    "name": "journal",
+    "name": "Think Tank",
     "description": "A Ghost theme",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "engines": {
         "ghost": ">=4.0.0",
         "ghost-api": "v4"
     },
     "license": "MIT",
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "WYDNA Group",
+        "email": "kantbot@hotmail.com",
+        "url": "https://wydna.org"
     },
     "keywords": [
         "ghost",
